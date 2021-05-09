@@ -5,7 +5,7 @@
 <br>
 <br>
 👨🏻‍💼Basic / Intermediate Knowledge:<br>
-• To react; • React-native; • Html; • CSS; • GitHub; • WordPress.
+• React; • React-native; • Html; • CSS; • GitHub; • WordPress.
 <br> 
 🚀
 </h3>
