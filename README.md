@@ -34,3 +34,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lfullmann&show_icons=true&locale=en&layout=compact" alt="lfullmann" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lfullmann&show_icons=true&locale=en" alt="lfullmann" /></p>
+
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
